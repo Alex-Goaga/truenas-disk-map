@@ -1,0 +1,5 @@
+cd /home/truenas_admin/dockere/truenas_interfata_noua/
+
+sudo docker build -t truenas_interfata .
+
+sudo docker run -d --name truenas_interfata --restart unless-stopped -p 8585:80 -v /dev:/dev -v /etc/localtime:/etc/localtime:ro --privileged truenas_interfata
