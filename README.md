@@ -1,4 +1,7 @@
 TrueNAS Disk Control (SES + SMART + Web UI)
+<img width="1192" height="1234" alt="pic_1" src="https://github.com/user-attachments/assets/607a14c7-0e7d-4a03-bfcd-5438f5824af2" />
+<img width="1165" height="683" alt="pic_2" src="https://github.com/user-attachments/assets/52bac8ad-613c-4169-a3ea-77141d515672" />
+
 
 This project is a small utility written mostly in procedural PHP (i do my best in it) that helps visualize and control disks in a TrueNAS system with SAS controllers and SES enclosures.
 
