@@ -191,9 +191,12 @@ ________________________________________
 
 Credits (Images)
 Some of the images used in this project were created specifically for this interface.
+
 I initially searched online for icons that could represent a disk inside an enclosure, but I couldn't find anything that matched what I needed. Because of that, I experimented with AI image generation (ChatGPT image tools) until I obtained a visual style that was close to what I had in mind.
+
 From those generated images I selected a small section and manually cropped it in Paint to create the base disk graphic.
 The colored LED indicators used for disk status (OK, warning, error, etc.) were later created with the help of a colleague using Photoshop, since I do not personally know how to work with Photoshop.
+
 So the final images are a combination of:
 •	AI generated visuals
 •	manual cropping/editing
